@@ -1,0 +1,23 @@
+[
+    {
+        "id": "book_001",
+        "title": "Pemrograman Python",
+        "author": "Guido van Rossum",
+        "year": 2020,
+        "quantity": 5
+    },
+    {
+        "id": "book_002",
+        "title": "Pemrograman Python",
+        "author": "Guido van Rossum",
+        "year": 2020,
+        "quantity": 5
+    },
+    {
+        "id": "book_003",
+        "title": "budi",
+        "author": "chyn",
+        "year": 2023,
+        "quantity": 89
+    }
+]
