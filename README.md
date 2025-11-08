@@ -1,6 +1,6 @@
 # Python Journey Advance 2025
 
-Kumpulan 10 proyek Python untuk pembelajaran tingkat menengah hingga lanjut. Proyek ini menggunakan Python 3.10 dengan virtual environment.
+Halo semua, aku cahyo. aku lagi belajar python pemula dengan langsung membuat projek. dan berikut kumpulan 10 proyek Python untuk pembelajaran tingkat menengah hingga lanjut. Proyek ini menggunakan Python 3.10 dengan virtual environment.
 
 ## Daftar Proyek
 
