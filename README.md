@@ -26,7 +26,7 @@ Halo semua, aku cahyo. aku lagi belajar python pemula dengan langsung membuat pr
 1. Clone repository:
 ```bash
 git clone <repository-url>
-cd python-journey-advance-2025
+cd python-journey-beginner-2025
 ```
 
 2. Buat virtual environment:
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ## Struktur Proyek
 
 ```
-python-journey-advance-2025/
+python-journey-beginner-2025/
 ├── 01_calculator_cli/          # Basic Calculator
 ├── 02_temperature_converter/   # Temperature & Currency Converter
 ├── 03_number_guessing_game/   # Number Guessing Game
